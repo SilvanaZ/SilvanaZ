@@ -3,10 +3,6 @@
 - 👩‍💻 Trabajo con HTML, CSS, Javascript, EJS, React.
 - 🌺 Estoy aprendiendo un curso de Full Stack Node JS 
 - 👯  Busco colaborar y participar en proyectos de todo tipo que me ayude a sumar experiencia.
-- ✨ Podes encontrarme en: 
-- [GitHub](www.github.com/SilvanaZ)
-- [Whatsapp](1133614555)
-- [LinkedIn](https://www.linkedin.com/in/silvana-rocio-zalazar-8b107221b/)
 - ✨ Hecho divertido: I love 🐈 , I love every kind of 🐱 and I love 👩‍💻 ❤️
 
 
@@ -24,10 +20,10 @@
    ##
  
 <div> 
-  <a href="mailto:jonathandev2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a> 
-  <a href ="https://www.linkedin.com/in/ibarrola-jonathan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/+541124013609" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 	<a href="https://t.me/JonathanIbarrola" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"target="_blank"></a>
+  <a href="mailto:silvana.blaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a> 
+  <a href ="https://www.linkedin.com/in/silvana-rocio-zalazar-8b107221b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/+541133614555" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 	<a href="https://t.me/SilZalazar" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"target="_blank"></a>
 </div>
 
 ![cathub](https://user-images.githubusercontent.com/90283693/148083771-c23bd04b-7841-4213-96c0-40845a76ec5d.gif)
