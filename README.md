@@ -1,4 +1,10 @@
  # Hola soy Silvana Zalazar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
+ ## 👱‍♀️ Blog 👱‍♀️ 
+- 🖥️ I’m a developer from Argentina passionate about web technologies like C#, C++, .net, react, python, angular, mongoDB, javascript, Node Js, HTML5 and Css.
+- 🌺 I'm learning a Full Stack Node JS course with Digital House.
+- 👯 I seek to collaborate and participate in projects of all kinds that help me add experience.
+- ✨ Funny Fact: I love 🐈 , I love every kind of 🐱 and I love 👩‍💻 ❤️
 
 <a href="https://github.com/silvanaZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=radical"/>
@@ -14,13 +20,7 @@
   <img align="center" alt="Sil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sil-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-
-## 👩‍💻 Blog
-- 👩‍💻 Trabajo con HTML, CSS, Javascript, EJS, React.
-- 🌺 Estoy aprendiendo un curso de Full Stack Node JS 
-- 👯  Busco colaborar y participar en proyectos de todo tipo que me ayude a sumar experiencia.
-- ✨ Hecho divertido: I love 🐈 , I love every kind of 🐱 and I love 👩‍💻 ❤️ 
+ 
  
 ![cathub](https://user-images.githubusercontent.com/90283693/148618281-ae082bf6-52f6-4e44-861b-0ff31f6bc128.gif)
 
