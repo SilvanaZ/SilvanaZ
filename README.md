@@ -2,7 +2,7 @@
  
  ## 👱‍♀️ Blog 👱‍♀️ 
 - 🖥️ I’m a developer from Argentina passionate about web and programming languages such as Ruby, Javascript, Node Js, React, HTML, Css, etc. 
-- 🌺 I'm learning a Full Stack Node JS course with Digital House.
+- 🌺 I'm graduated as a Full Stack Node JS course with Digital House.
 - 👯 I seek to collaborate and participate in projects of all kinds that help me add experience.
 - ✨ Funny Fact: I love 🐈 , I love every kind of 🐱 and I love 👩‍💻 ❤️
 
