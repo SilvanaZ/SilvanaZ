@@ -1,3 +1,4 @@
+![Silvana Rocío Zalazar](https://user-images.githubusercontent.com/90283693/172946377-d7094b72-398f-4fd0-a1b1-26b664f484ee.gif)
  # Hola soy Silvana Zalazar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
  
  ## 👱‍♀️ Blog 👱‍♀️ 
@@ -24,4 +25,3 @@
   <a href ="https://www.linkedin.com/in/silvana-rocio-zalazar-8b107221b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/+541133614555" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
- <img width="100%" height="400em"src="https://user-images.githubusercontent.com/90283693/172034350-972b596e-25e0-46e3-a230-dd543df16a00.gif"/>
