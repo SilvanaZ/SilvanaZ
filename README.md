@@ -7,7 +7,7 @@
 - ✨ Funny Fact: I love 🐈 , I love every kind of 🐱 and I love 👩‍💻 ❤️
 
 <a href="https://github.com/silvanaZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=osean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=ocean_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=ocean_dark"/>
 
 <div style="display: inline_block"><br>
