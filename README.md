@@ -27,7 +27,9 @@
 ![image](https://img.shields.io/badge/SCRUM-coral?style=for-the-badge&logo=SCRUM&logoColor=white)
 ![image](https://img.shields.io/badge/Javascript-violet?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/sequelize-orange?style=for-the-badge&logo=sequelize&logoColor=white)
-<a href="mailto:silvana.blaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a> 
+ 
+ <h2>- ⚡ Si quieres contactarte conmigo:</h2><br>
+ <a href="mailto:silvana.zalazar.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a> 
   <a href ="https://www.linkedin.com/in/silvana-rocio-zalazar-8b107221b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/+541133614555" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
