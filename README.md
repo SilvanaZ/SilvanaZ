@@ -6,6 +6,15 @@
 - 👯 I seek to collaborate and participate in projects of all kinds that help me add experience.
 - ✨ Funny Fact: I love 🐈 , I love every kind of 🐱 and I love 👩‍💻 ❤️
 
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/-Postman-ligthblue?style=for-the-badge&logo=postman&logoColor=white)
+![image](https://img.shields.io/badge/SCRUM-coral?style=for-the-badge&logo=SCRUM&logoColor=white)
+![image](https://img.shields.io/badge/Javascript-violet?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/sequelize-orange?style=for-the-badge&logo=sequelize&logoColor=white)
+
 <a href="https://github.com/silvanaZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=radical"/>
@@ -19,14 +28,7 @@
   <img align="center" alt="Sil-Sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Sil-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
- ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![image](https://img.shields.io/badge/-Postman-ligthblue?style=for-the-badge&logo=postman&logoColor=white)
-![image](https://img.shields.io/badge/SCRUM-coral?style=for-the-badge&logo=SCRUM&logoColor=white)
-![image](https://img.shields.io/badge/Javascript-violet?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/sequelize-orange?style=for-the-badge&logo=sequelize&logoColor=white)
+ 
  
  <h2>- ⚡ Si quieres contactarte conmigo:</h2><br>
  <a href="mailto:silvana.zalazar.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a> 
