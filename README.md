@@ -1,23 +1,27 @@
 # Hola soy Silvana Zalazar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
  
- ## 👱‍♀️ Blog 👱‍♀️ 
-- 🖥️ I’m a developer from Argentina passionate about web and programming languages such as Ruby, Javascript, Node Js, React, HTML, Css, etc. 
-- 🌺 I'm graduated as a Full Stack Node JS course with Digital House.
-- 👯 I seek to collaborate and participate in projects of all kinds that help me add experience.
-- ✨ Funny Fact: I love 🐈 , I love every kind of 🐱 and I love 👩‍💻 ❤️
+ <h3 align="left">Soy Desarrolladora Web Full Stack :computer:</h3>
 
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![image](https://img.shields.io/badge/-Postman-ligthblue?style=for-the-badge&logo=postman&logoColor=white)
-![image](https://img.shields.io/badge/SCRUM-coral?style=for-the-badge&logo=SCRUM&logoColor=white)
-![image](https://img.shields.io/badge/Javascript-violet?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/sequelize-orange?style=for-the-badge&logo=sequelize&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=HTML5&logoColor=white)
+![image](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+![image](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![image](https://img.shields.io/badge/SCRUM-brown?style=for-the-badge&logo=SCRUM&logoColor=white)
+![image](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/sequelize-grey?style=for-the-badge&logo=sequelize&logoColor=white)
+![image](https://img.shields.io/badge/-VITE-violet?style=for-the-badge&logo=vite&logoColor=white)
+![image](https://img.shields.io/badge/JEST-darkgreen?style=for-the-badge&logo=JEST&logoColor=white)
+![image](https://img.shields.io/badge/REACT-lightblue?style=for-the-badge&logo=REACT&logoColor=white)
+![image](https://img.shields.io/badge/RUBY-darkred?style=for-the-badge&logo=RUBY&logoColor=white)
+![image](https://img.shields.io/badge/GO-aliceblue?style=for-the-badge&logo=GO&logoColor=white)
+
 
 <a href="https://github.com/silvanaZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" weight="180em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=synthwave"/>
+  <img height="180em" weight="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=radical"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sil-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
