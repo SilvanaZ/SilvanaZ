@@ -31,15 +31,15 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-purple?style=for-the-badge&logo=Udemy&logoColor=white)
 
-<a href="https://github.com/silvanaZ">
-  <img height="180em" weight="180em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=synthwave"/>
-  <img height="180em" weight="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" weight="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=silvanaZ&theme=jolly"/>
-
-  
  <h2>- ⚡ Si quieres contactarte conmigo:</h2><br>
  <a href="mailto:silvana.zalazar.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a> 
   <a href ="https://www.linkedin.com/in/silvana-rocio-zalazar-8b107221b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/+541133614555" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+<div>
+<a href="https://github.com/silvanaZ">
+  <img height="130em" weight="130em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=synthwave"/>
+  <img height="130em" weight="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" weight="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=silvanaZ&theme=jolly"/>
+</div>
+
  <img align="center" alt="Sil-Gif" height="180rem" width="750rem" src="https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1651780738440%2F58BeZKIl2.gif%3Fw%3D1200%26auto%3Dformat%2Ccompress%26gif-q%3D60%26format%3Dwebm%26fm%3Dpng"/>
