@@ -9,7 +9,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-5F9EA0?style=for-the-badge&logo=mysql&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-FF1493?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![HTML](	https://img.shields.io/badge/HTML-CC0000?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-CC0000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF4500?style=for-the-badge&logo=postman&logoColor=white)
 ![Scrum](https://img.shields.io/badge/SCRUM-000080?style=for-the-badge&logo=SCRUM&logoColor=white)
@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-00CCAA?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Vite](https://img.shields.io/badge/-VITE-494661?style=for-the-badge&logo=vite&logoColor=white)
-![Jest](	https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=00CED1)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![R Testing library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
@@ -31,8 +31,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-purple?style=for-the-badge&logo=Udemy&logoColor=white)
 
- <h2>- ⚡ Si quieres contactarte conmigo:</h2><br>
- <a href="mailto:silvana.zalazar.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a> 
+<div>
+ <h2>- ⚡ Si quieres contactarte conmigo:</h2>
+ <a href="mailto:silvana.zalazar.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href ="https://www.linkedin.com/in/silvana-rocio-zalazar-8b107221b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div>
