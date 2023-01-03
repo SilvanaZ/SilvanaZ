@@ -15,6 +15,7 @@
 ![Scrum](https://img.shields.io/badge/SCRUM-000080?style=for-the-badge&logo=SCRUM&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=yellow)
 ![Sequelize](https://img.shields.io/badge/sequelize-00CCAA?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Vite](https://img.shields.io/badge/-VITE-494661?style=for-the-badge&logo=vite&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
