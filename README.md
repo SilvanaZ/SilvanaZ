@@ -23,15 +23,12 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![R Testing library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Material UI](https://img.shields.io/badge/Material-ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Ruby](https://img.shields.io/badge/RUBY-darkred?style=for-the-badge&logo=RUBY&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-E91E63?style=for-the-badge&logo=SASS&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-663399?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Styled Comp](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-purple?style=for-the-badge&logo=Udemy&logoColor=white)
-
 <div>
  <h2>- ⚡ Si quieres contactarte conmigo:</h2>
  <a href="mailto:silvana.zalazar.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
