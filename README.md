@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/HTML-CC0000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF4500?style=for-the-badge&logo=postman&logoColor=white)
-![Scrum](https://img.shields.io/badge/SCRUM-000080?style=for-the-badge&logo=SCRUM&logoColor=white)
+![Scrum](https://img.shields.io/badge/SCRUM-lawngreen?style=for-the-badge&logo=SCRUM&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=yellow)
@@ -21,6 +21,7 @@
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=00CED1)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Router Dom](https://img.shields.io/badge/React_Router_Dom-maroon?style=for-the-badge&logo=react-router-dom&logoColor=white)
 ![R Testing library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Material UI](https://img.shields.io/badge/Material-ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-E91E63?style=for-the-badge&logo=SASS&logoColor=white)
@@ -29,6 +30,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Styled Comp](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-navy?&style=for-the-badge&logo=photoshop&logoColor=white)
 <div>
  <h2>- ⚡ Si quieres contactarte conmigo:</h2>
  <a href="mailto:silvana.zalazar.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -40,5 +42,3 @@
   <img height="130em" weight="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=radical"/>
   <img height="130em" weight="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=silvanaZ&theme=jolly"/>
 </div>
-
- <img align="center" alt="Sil-Gif" height="180rem" width="750rem" src="https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1651780738440%2F58BeZKIl2.gif%3Fw%3D1200%26auto%3Dformat%2Ccompress%26gif-q%3D60%26format%3Dwebm%26fm%3Dpng"/>
