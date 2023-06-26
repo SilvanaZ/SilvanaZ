@@ -1,6 +1,6 @@
 # Hola soy Silvana Zalazar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
  
- <h3 align="left">Soy Desarrolladora Web Full Stack :computer:</h3>
+ <h3 align="left">Soy Desarrolladora Frontend :computer:</h3>
  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
