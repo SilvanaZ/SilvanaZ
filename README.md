@@ -35,9 +35,12 @@
  <a href="mailto:silvana.zalazar.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href ="https://www.linkedin.com/in/silvana-rocio-zalazar-8b107221b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 <div>
 <a href="https://github.com/silvanaZ">
   <img height="130em" weight="130em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=synthwave"/>
   <img height="130em" weight="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=radical"/>
   <img height="130em" weight="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=silvanaZ&theme=jolly"/>
 </div>
+
+![](https://github-profile-trophy.vercel.app/?username=silvanaZ&theme=darkhub&no-frame=true&no-bg=false&margin-w=4) 
