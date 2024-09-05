@@ -87,6 +87,22 @@ Soy una **Desarrolladora Frontend** apasionada por la creación de interfaces we
 
 ---
 
+### 🌈 **Mi Actividad en GitHub**:
+
+<div>
+<a href="https://github.com/silvanaZ">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=synthwave"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 🏆 **Logros en GitHub**:
+
+![Silvana Zalazar](https://github-profile-trophy.vercel.app/?username=silvanaZ&theme=darkhub&no-frame=true&no-bg=false&margin-w=4) 
+
+---
+
 ### 🌟 **Seguidores y Estrellas**:
 
 ![GitHub Followers](https://img.shields.io/github/followers/silvanaZ?style=social)
@@ -101,21 +117,5 @@ Soy una **Desarrolladora Frontend** apasionada por la creación de interfaces we
 <a href="https://www.linkedin.com/in/silvana-rocio-zalazar-8b107221b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://portfolio-sz.netlify.app" target="_blank" /><img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=REACT&logoColor=purple"></a>
 </p>
-
----
-
-### 🌈 **Mi Actividad en GitHub**:
-
-<div>
-<a href="https://github.com/silvanaZ">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=silvanaZ&show_icons=true&theme=synthwave"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaZ&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-### 🏆 **Logros en GitHub**:
-
-![Silvana Zalazar](https://github-profile-trophy.vercel.app/?username=silvanaZ&theme=darkhub&no-frame=true&no-bg=false&margin-w=4) 
 
 ---
