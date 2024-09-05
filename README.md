@@ -11,7 +11,7 @@ Soy una **Desarrolladora Frontend** apasionada por la creación de interfaces we
 - 💖 Me especializo en **ReactJS**, **JavaScript** y **CSS**.
 - 🌱 Actualmente, estoy profundizando mis conocimientos en **TypeScript** y **Next.js**.
 - 📚 Además, soy **escritora** en **Wattpad** y comparto mis historias con una comunidad increíble.
-- ☕ Si te gusta mi trabajo, puedes apoyarme en **[BuyMeACoffee](https://www.buymeacoffee.com/silvanaz)**.
+- ☕ Si te gusta mi trabajo, puedes apoyarme en **[BuyMeACoffee](https://buymeacoffee.com/orangelove)**.
 
 ---
 
