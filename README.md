@@ -73,6 +73,10 @@ Soy una **Desarrolladora Frontend** apasionada por la creación de interfaces we
 
 ---
 
+## 📊 GitHub Contribution Stats
+![](https://github-contributor-stats.vercel.app/api?username=silvanaZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 ### ⭐ **Repositorios Populares**:
 
 [![Repositorio CV Interactivo](https://github-readme-stats.vercel.app/api/pin/?username=silvanaZ&repo=CV_Interactivo_Ticmas&theme=synthwave)](https://github.com/silvanaZ/CV_Interactivo_Ticmas)  
