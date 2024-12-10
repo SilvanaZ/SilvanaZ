@@ -37,11 +37,12 @@ Soy una **Desarrolladora Frontend** apasionada por la creación de interfaces we
   <img src="https://img.shields.io/badge/SCRUM-lawngreen?style=for-the-badge&logo=SCRUM&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-4169E1?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/sequelize-00CCAA?style=for-the-badge&logo=sequelize&logoColor=white" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-VITE-494661?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/VITE-800080?style=for-the-badge&logo=vite&logoColor=yellow&violet" />
   <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=00CED1" />
   <img src="https://img.shields.io/badge/Material-ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-E91E63?style=for-the-badge&logo=SASS&logoColor=white" />
